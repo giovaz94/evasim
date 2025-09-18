@@ -7,7 +7,7 @@ coroutines = "1.10.2"
 jakta = "0.15.1"
 
 [libraries]
-google-guava = "com.google.guava:guava:33.4.8-jre"
+google-guava = "com.google.guava:guava:33.5.0-jre"
 javafx = { module = "org.openjfx:javafx", version.ref = "javafx" }
 javafx-base = { module = "org.openjfx:javafx-base", version.ref = "javafx" }
 javafx-graphics = { module = "org.openjfx:javafx-graphics", version.ref = "javafx" }
