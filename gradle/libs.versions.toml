@@ -1,5 +1,5 @@
 [versions]
-javafx = "22.0.2"
+javafx = "26-ea+13"
 kotlin = "2.1.21"
 kotest = "6.0.4"
 testfx = "4.0.18"
