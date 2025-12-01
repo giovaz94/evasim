@@ -1,7 +1,7 @@
 [versions]
 javafx = "22.0.2"
 kotlin = "2.1.21"
-kotest = "6.0.5"
+kotest = "6.0.7"
 testfx = "4.0.18"
 coroutines = "1.10.2"
 jakta = "0.15.1"
