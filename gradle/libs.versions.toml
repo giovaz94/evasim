@@ -4,7 +4,7 @@ kotlin = "2.1.21"
 kotest = "6.0.7"
 testfx = "4.0.18"
 coroutines = "1.10.2"
-jakta = "0.15.1"
+jakta = "1.1.4"
 
 [libraries]
 google-guava = "com.google.guava:guava:33.5.0-jre"
